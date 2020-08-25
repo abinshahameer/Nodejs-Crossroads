@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-crossroads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abinshahameer/Nodejs-Crossroads.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abinshahameer/Nodejs-Crossroads/issues"
+  },
+  "homepage": "https://github.com/abinshahameer/Nodejs-Crossroads#readme",
+  "dependencies": {
+    "upper-case": "^2.0.1"
+  }
+}
