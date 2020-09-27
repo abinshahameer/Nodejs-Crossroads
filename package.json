@@ -18,6 +18,7 @@
   "homepage": "https://github.com/abinshahameer/Nodejs-Crossroads#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "promise": "^8.1.0",
     "upper-case": "^2.0.1"
   }
 }
